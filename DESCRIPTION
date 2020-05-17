@@ -1,0 +1,21 @@
+Package: BSgenome.SARSCoV2
+Title: Complete genome SARS-CoV-2 isolate Wuhan-Hu-1
+Description: Complete genome of SARS-CoV-2 virus
+Version: 1.0.0
+Author: Baranov,P.V., et al.
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.54.0)
+Imports: BSgenome
+Suggests:
+License: Artistic-2.0
+organism: SARS-CoV-2
+common_name: Covid-19
+provider: NCBI
+provider_version: 1.0.0
+release_date: JAN.2020
+release_name: SARS-CoV-2
+source_url: https://www.ncbi.nlm.nih.gov/nuccore/NC_045512
+biocViews: AnnotationData, Genetics, BSgenome, AnnotationData,
+        BSgenome, SARS_CoV2
+NeedsCompilation: no
+Packaged: 2020-05-17 18:39:22 UTC; DELL
